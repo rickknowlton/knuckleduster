@@ -1,0 +1,40 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+h2 {
+    color: rgb(221, 35, 35);
+}
+
+.t1 {
+    font-family: 'Berkshire Swash', cursive;
+
+}
+
+.t2 {
+    font-family: 'Corben', cursive;
+    
+}
+
+.t3 {
+    font-family: 'Graduate', cursive;
+    
+}
+
+.t4 {
+    font-family: 'Grand Hotel', cursive;    
+}
+
+.t5 {
+    font-family: 'Leckerli One', cursive;
+
+}
+.t6 {
+    font-family: 'Merienda One', cursive;
+}
+
+.t7 {
+    font-family: 'Rye', cursive;
+}
